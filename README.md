@@ -141,7 +141,7 @@
 | [Questions Are All You Need to Train a Dense Passage Retriever.](https://arxiv.org/pdf/2206.10658.pdf) | Devendra Singh Sachan et al. | Arxiv 2022 | [Python](https://github.com/DevSinghSachan/art)
 | [PROD: Progressive Distillation for Dense Retrieval.](https://arxiv.org/pdf/2209.13335.pdf) | Zhenghao Lin et al. | Arxiv 2022 | NA
 | [Answering Open-Domain Questions of Varying Reasoning Steps from Text.](https://arxiv.org/pdf/2010.12527.pdf) | Peng Qi et al. | EMNLP 2021 | [Python](https://github.com/beerqa/IRRR) |
-| [Multi-Task Retrieval for Knowledge-Intensive Tasks.](https://arxiv.org/pdf/2101.00117.pdf) | Jean Maillard et al. | IJCNLP 2021 | NA
+| [Multi-Task Retrieval for Knowledge-Intensive Tasks.](https://arxiv.org/pdf/2101.00117.pdf) | Jean Maillard et al. | ACL 2021 | NA
 
 ### Pre-training
 | **Paper** | **Author** | **Venue** | **Code** |
