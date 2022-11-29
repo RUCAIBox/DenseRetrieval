@@ -295,7 +295,6 @@
 | [Evaluating Token-Level and Passage-Level Dense Retrieval Models for Math Information Retrieval.](https://arxiv.org/pdf/2203.11163.pdf) | Wei Zhong et al. | Arxiv 2022 | [Python](https://github.com/approach0/math-dense-retrievers) |
 | [ReACC: A Retrieval-Augmented Code Completion Framework.](https://arxiv.org/pdf/2203.07722.pdf) | Shuai Lu et al. | ACL 2022 | [Python](https://github.com/microsoft/ReACC)
 | [Improving Biomedical Information Retrieval with Neural Retrievers.](https://arxiv.org/pdf/2201.07745.pdf) | Man Luo et al. | AAAI 2022 | NA |
-| [A Comprehensive Survey on Cross-modal Retrieval.](https://arxiv.org/pdf/1607.06215) | Kaiye Wang et al. | CoRR 2016 | NA
 
 ### Natural Language Processing Applications
 | **Paper** | **Author** | **Venue** | **Code** |
