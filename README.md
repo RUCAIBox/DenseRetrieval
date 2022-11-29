@@ -8,8 +8,7 @@
 If you find our survey useful for your research, please cite the following paper:
 ```
 @article{DRSurvey,
-    title={Dense Text Retrieval based on Pretrained Language Models: A Survey
-},
+    title={Dense Text Retrieval based on Pretrained Language Models: A Survey},
     author={Wayne Xin Zhao, Jing Liu, Ruiyang Ren, Ji-Rong Wen},
     year={2022},
     journal={arXiv preprint arXiv:2211.14876}
