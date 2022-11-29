@@ -4,8 +4,8 @@
 > A collection of papers related to dense retrieval. 
 >
 > The arrangement of papers refers to our survey [**"Dense Text Retrieval based on Pretrained Language Models: A Survey"**](https://arxiv.org/abs/2211.14876).
-
-If you find our survey useful for your research, please cite the following paper:
+>
+>If you find our survey useful for your research, please cite the following paper:
 ```
 @article{DRSurvey,
     title={Dense Text Retrieval based on Pretrained Language Models: A Survey},
