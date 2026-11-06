@@ -151,6 +151,7 @@
 | [PROD: Progressive Distillation for Dense Retrieval.](https://arxiv.org/pdf/2209.13335.pdf) | Zhenghao Lin et al. | Arxiv 2022 | NA
 | [Answering Open-Domain Questions of Varying Reasoning Steps from Text.](https://arxiv.org/pdf/2010.12527.pdf) | Peng Qi et al. | EMNLP 2021 | [Python](https://github.com/beerqa/IRRR) |
 | [Multi-Task Retrieval for Knowledge-Intensive Tasks.](https://arxiv.org/pdf/2101.00117.pdf) | Jean Maillard et al. | ACL 2021 | NA
+| [ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance.](https://aclanthology.org/2025.emnlp-main.963.pdf) | Sijia Yao et al. | EMNLP 2025 | [Python](https://github.com/NEUIR/ExpandR) |
 
 ### Pre-training
 | **Paper** | **Author** | **Venue** | **Code** |
